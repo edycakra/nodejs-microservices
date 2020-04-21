@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-microservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edycakra/nodejs-microservices.git"
+  },
+  "keywords": [],
+  "author": "Edycakra Sinaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edycakra/nodejs-microservices/issues"
+  },
+  "homepage": "https://github.com/edycakra/nodejs-microservices#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
